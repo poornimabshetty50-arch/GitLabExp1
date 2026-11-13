@@ -1,0 +1,4 @@
+Experiment 02
+Aim: GitLab file management.
+Procedure: Create, add, commit and push files.
+Result: Successfully completed.
