@@ -1,4 +1,0 @@
-Experiment 02
-Topic: Creating and Managing Branches
-
-This file is created in feature-branch.
